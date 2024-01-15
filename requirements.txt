@@ -1,6 +1,6 @@
 gitpython
 motor
-pyrogram
+pyrogram==2.0.106
 pykeyboard
 pyromod==1.1
 pymongo
