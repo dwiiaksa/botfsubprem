@@ -15,7 +15,7 @@ sudo apt-get update && sudo apt-get upgrade -y
 
 ### CLONE REPOSITORY ⤵️
 ```
-git clone https://git_token_kalian@github.com/Azure12321/FsubAksara && cd FsubAksara
+git clone https://github.com/dwiiaksa/botfsubprem && cd botfsubprem
 ```
 
 ### INSTALL REQUIREMENTS ⤵️
