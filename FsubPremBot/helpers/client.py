@@ -172,9 +172,7 @@ class SUB:
 💡 ᴜɴᴛᴜᴋ ᴍᴇɴᴅᴀᴘᴀᴛᴋᴀɴ ᴛᴀᴜᴛᴀɴ ʏᴀɴɢ ɪɴɢɪɴ ᴋᴀᴍᴜ ᴀᴋsᴇs,
 ᴋᴀᴍᴜ ʜᴀʀᴜs ʙᴇʀɢᴀʙᴜɴɢ ᴅɪ ɢʀᴏᴜᴘ/ᴄʜᴀɴɴᴇʟ ᴛᴇʀʟᴇʙɪʜ ᴅᴀʜᴜʟᴜ.
 
-✅ sᴇᴛᴇʟᴀʜ ʙᴇʀɢᴀʙᴜɴɢ, sɪʟᴀᴋᴀɴ ᴛᴇᴋᴀɴ "ᴄᴏʙᴀ ʟᴀɢɪ".
-
-💻 JIKA BOT EROR LAPORAN KE @MafiaYakuza.</b>
+✅ sᴇᴛᴇʟᴀʜ ʙᴇʀɢᴀʙᴜɴɢ, sɪʟᴀᴋᴀɴ ᴛᴇᴋᴀɴ "ᴄᴏʙᴀ ʟᴀɢɪ".</b>
 """,
                     disable_web_page_preview=True,
                     reply_markup=buttons,
