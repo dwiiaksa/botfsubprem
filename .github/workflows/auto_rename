@@ -1,0 +1,26 @@
+name: Rename Folder and Update Imports
+on: [push]
+
+jobs:
+  rename_folder:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Rename folder
+        run: |
+          mv FsubPremBot/module FsubPremBot/modules
+
+      - name: Update Imports
+        run: |
+          find . -type f -name '*.py'  -exec sed -i 's#FsubPremBot.module#FsubPremBot.modules#g' {} +
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Rename folder and update imports"
+          git push
