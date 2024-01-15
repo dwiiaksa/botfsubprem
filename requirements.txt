@@ -1,0 +1,10 @@
+gitpython
+motor
+pyrogram
+pykeyboard
+pyromod==1.1
+pymongo
+pytz
+psutil
+python-dotenv
+tgcrypto
